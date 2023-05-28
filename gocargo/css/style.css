@@ -1254,7 +1254,7 @@ blockquote span {
 	width: 100%;
 	background: #eee;
 	padding: 6px;
-	border: none;
+	border: 1px;
 }
 #section-track .input-fullwidth {
 	background: rgba(255, 255, 255, .2);
@@ -4392,6 +4392,7 @@ a, a:hover, .feature-box, .custom-col-3 i, .custom-col-3 i:hover, .custom-carous
 	background: url(../img/loader.gif) 100% center no-repeat #fff;
 	background-size: auto !important;
 }
+
 @media (min-width: 992px) and (max-width: 1199px) {
 	header {
 		display: none;
